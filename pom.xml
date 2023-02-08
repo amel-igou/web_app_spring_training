@@ -58,15 +58,6 @@
             <artifactId>maven-plugin-annotations</artifactId>
             <version>3.3</version>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jdbc</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.5.0</version>
-        </dependency>
     </dependencies>
     <dependencyManagement>
         <dependencies>
